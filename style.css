@@ -13,8 +13,8 @@ html, body {
 
 h1 {
   position: absolute;
-  top: 27%;
-  left: 39%;
+  top: 30%;
+  left: 49%;
   transform: translate(-50%, -50%);
   color: #ff0000;
   font-size: 160px;
