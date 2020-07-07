@@ -1,13 +1,13 @@
 body {
-    background: #59abe3;
+    background: #1D1D1D;
     margin: 0;
   }
   .form {
     width: 340px;
     height: 440px;
-    background: #e6e6e6;
+    background: #d4d4d4;
     border-radius: 8px;
-    box-shadow: 0 0 40px -10px #000;
+    box-shadow: 0 0 40px -10px #080808;
     margin: calc(50vh - 220px) auto;
     padding: 20px 30px;
     max-width: calc(100vw - 40px);
